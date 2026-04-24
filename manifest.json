@@ -3,9 +3,20 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T01:00:54.551935+00:00",
-  "mods": [],
-  "mod_count": 0,
-  "total_size": 0,
+  "updated_at": "2026-04-24T01:47:21.701920+00:00",
+  "mods": [
+    {
+      "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
+      "display_name": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1",
+      "description": "",
+      "size": 5237,
+      "required": true,
+      "hash": "95ec7ae8bafcd1cbde94fb6c5052c72c4d35985dc0b844201ad5b41870b94100",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/AnvilNeverTooExpensive-neoforge-1.21%2B-1.2.1.jar",
+      "added_at": "2026-04-24T01:47:21.601711+00:00"
+    }
+  ],
+  "mod_count": 1,
+  "total_size": 5237,
   "schema_version": 1
 }
