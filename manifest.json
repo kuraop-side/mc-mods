@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:45:05.032853+00:00",
+  "updated_at": "2026-04-24T17:45:16.849495+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -187,7 +187,7 @@
     },
     {
       "filename": "geckolib-neoforge-1.21.1-4.8.2.jar",
-      "display_name": "geckolib-neoforge-1.21.1-4.8.2",
+      "display_name": "Geckolib",
       "description": "",
       "size": 621848,
       "required": true,
