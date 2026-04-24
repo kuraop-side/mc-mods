@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:45:34.684910+00:00",
+  "updated_at": "2026-04-24T17:45:45.290155+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -217,7 +217,7 @@
     },
     {
       "filename": "kotlinforforge-5.11.0-all.jar",
-      "display_name": "kotlinforforge-5.11.0-all",
+      "display_name": "Kotlin For Forge",
       "description": "",
       "size": 6869790,
       "required": true,
