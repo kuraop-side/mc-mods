@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:47:37.423661+00:00",
+  "updated_at": "2026-04-24T17:47:49.445210+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -317,7 +317,7 @@
     },
     {
       "filename": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
-      "display_name": "xaeroworldmap-neoforge-1.21.1-1.40.11",
+      "display_name": "Xaero's World Map",
       "description": "",
       "size": 1386001,
       "required": true,
