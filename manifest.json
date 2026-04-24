@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:41:33.539018+00:00",
+  "updated_at": "2026-04-24T17:41:46.885871+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -27,7 +27,7 @@
     },
     {
       "filename": "backpacked-neoforge-1.21.1-3.0.3.jar",
-      "display_name": "backpacked-neoforge-1.21.1-3.0.3",
+      "display_name": "Backpacked",
       "description": "",
       "size": 1279258,
       "required": true,
