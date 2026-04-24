@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T01:47:21.701920+00:00",
+  "updated_at": "2026-04-24T01:52:46.571855+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -14,9 +14,319 @@
       "hash": "95ec7ae8bafcd1cbde94fb6c5052c72c4d35985dc0b844201ad5b41870b94100",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/AnvilNeverTooExpensive-neoforge-1.21%2B-1.2.1.jar",
       "added_at": "2026-04-24T01:47:21.601711+00:00"
+    },
+    {
+      "filename": "architectury-13.0.8-neoforge.jar",
+      "display_name": "architectury-13.0.8-neoforge",
+      "description": "",
+      "size": 584004,
+      "required": true,
+      "hash": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/architectury-13.0.8-neoforge.jar",
+      "added_at": "2026-04-24T01:49:16.143829+00:00"
+    },
+    {
+      "filename": "backpacked-neoforge-1.21.1-3.0.3.jar",
+      "display_name": "backpacked-neoforge-1.21.1-3.0.3",
+      "description": "",
+      "size": 1279258,
+      "required": true,
+      "hash": "fbc4daaafc5a68125e144b14243468a6b3ad347bd8948eb41f2d0de05afaca0e",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/backpacked-neoforge-1.21.1-3.0.3.jar",
+      "added_at": "2026-04-24T01:49:17.875651+00:00"
+    },
+    {
+      "filename": "BrewinAndChewin-neoforge-4.4.1+1.21.1.jar",
+      "display_name": "BrewinAndChewin-neoforge-4.4.1+1.21.1",
+      "description": "",
+      "size": 1558087,
+      "required": true,
+      "hash": "523841afdc3e27ac6f6d509a24296b355ae137ab68a6abefe4f88dc02d8617e1",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/BrewinAndChewin-neoforge-4.4.1%2B1.21.1.jar",
+      "added_at": "2026-04-24T01:49:20.030924+00:00"
+    },
+    {
+      "filename": "cloth-config-15.0.140-neoforge.jar",
+      "display_name": "cloth-config-15.0.140-neoforge",
+      "description": "",
+      "size": 1163890,
+      "required": true,
+      "hash": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/cloth-config-15.0.140-neoforge.jar",
+      "added_at": "2026-04-24T01:49:21.735323+00:00"
+    },
+    {
+      "filename": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "display_name": "Clumps-neoforge-1.21.1-19.0.0.1",
+      "description": "",
+      "size": 18382,
+      "required": true,
+      "hash": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "added_at": "2026-04-24T01:49:22.220531+00:00"
+    },
+    {
+      "filename": "cluttered-.NeoForge.-3.0.3-1.21.1.jar",
+      "display_name": "cluttered-.NeoForge.-3.0.3-1.21.1",
+      "description": "",
+      "size": 5404861,
+      "required": true,
+      "hash": "c1649584e178ce04b2ca923f4afcd5640f67cea7a122dc166f9a773db8683e8f",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/cluttered-.NeoForge.-3.0.3-1.21.1.jar",
+      "added_at": "2026-04-24T01:49:28.629317+00:00"
+    },
+    {
+      "filename": "create-1.21.1-6.0.9.jar",
+      "display_name": "create-1.21.1-6.0.9",
+      "description": "",
+      "size": 19019888,
+      "required": true,
+      "hash": "c3030f79894ba7410d51e99dd5e5b8a4f4cc9de6cb63c5906dc8f909000a4f55",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/create-1.21.1-6.0.9.jar",
+      "added_at": "2026-04-24T01:49:52.103889+00:00"
+    },
+    {
+      "filename": "create-dragons-plus-1.8.7.jar",
+      "display_name": "create-dragons-plus-1.8.7",
+      "description": "",
+      "size": 644935,
+      "required": true,
+      "hash": "1377916672a5919af4c23e19e993fa0da29c6cd6b99b34148054f76ff7aeff86",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/create-dragons-plus-1.8.7.jar",
+      "added_at": "2026-04-24T01:49:53.310950+00:00"
+    },
+    {
+      "filename": "create-enchantment-industry-2.3.0.jar",
+      "display_name": "create-enchantment-industry-2.3.0",
+      "description": "",
+      "size": 683005,
+      "required": true,
+      "hash": "304bec94c91e73538cac6516ca3ef7722625764686830357e8cbb6bc21dd4606",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/create-enchantment-industry-2.3.0.jar",
+      "added_at": "2026-04-24T01:49:54.378955+00:00"
+    },
+    {
+      "filename": "creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
+      "display_name": "creategoggles-1.21.1-6.1.1-.NEOFORGE",
+      "description": "",
+      "size": 180932,
+      "required": true,
+      "hash": "f08ff14c72ff15de9b3c87200ad06115ff48c73ac21458e038d6e137e162a907",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
+      "added_at": "2026-04-24T01:49:55.311280+00:00"
+    },
+    {
+      "filename": "CreateNumismatics-1.0.19integration+neoforge-mc1.21.1.jar",
+      "display_name": "CreateNumismatics-1.0.19integration+neoforge-mc1.21.1",
+      "description": "",
+      "size": 729918,
+      "required": true,
+      "hash": "4206f91cc92254f08f21b7c203f7294fe5b37267748aa70bb7d7c3c86212b70d",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/CreateNumismatics-1.0.19integration%2Bneoforge-mc1.21.1.jar",
+      "added_at": "2026-04-24T01:49:56.565058+00:00"
+    },
+    {
+      "filename": "createutilities-0.3.2+mc1.21.1.jar",
+      "display_name": "createutilities-0.3.2+mc1.21.1",
+      "description": "",
+      "size": 363287,
+      "required": true,
+      "hash": "d74232ee24c36dc6df160d0dff772b52938d6e911f3fb3b4600cd3b0df109f9d",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/createutilities-0.3.2%2Bmc1.21.1.jar",
+      "added_at": "2026-04-24T01:49:58.543971+00:00"
+    },
+    {
+      "filename": "Essential_1-3-10_neoforge_1-21-1.jar",
+      "display_name": "Essential_1-3-10_neoforge_1-21-1",
+      "description": "",
+      "size": 54237614,
+      "required": true,
+      "hash": "07418e43aa2339a11cd81915e44e0b037cd60db124b0ba5cb96c7afd469208b7",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/Essential_1-3-10_neoforge_1-21-1.jar",
+      "added_at": "2026-04-24T01:51:07.321068+00:00"
+    },
+    {
+      "filename": "FarmersDelight-1.21.1-1.2.9.jar",
+      "display_name": "FarmersDelight-1.21.1-1.2.9",
+      "description": "",
+      "size": 2964387,
+      "required": true,
+      "hash": "bdc8dea5ea3f1ee81494a4587a6aef88976d942294a8ceddc3287cf0436bfd4f",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/FarmersDelight-1.21.1-1.2.9.jar",
+      "added_at": "2026-04-24T01:51:17.802031+00:00"
+    },
+    {
+      "filename": "forgematica-0.4.1+mc1.21.1.jar",
+      "display_name": "forgematica-0.4.1+mc1.21.1",
+      "description": "",
+      "size": 1383228,
+      "required": true,
+      "hash": "7244da3257115346eea3fa81bd70bc050b6d09cd9d75bdb7251ce949eb35f7ef",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/forgematica-0.4.1%2Bmc1.21.1.jar",
+      "added_at": "2026-04-24T01:51:20.434498+00:00"
+    },
+    {
+      "filename": "framework-neoforge-1.21.1-0.13.11.jar",
+      "display_name": "framework-neoforge-1.21.1-0.13.11",
+      "description": "",
+      "size": 387334,
+      "required": true,
+      "hash": "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/framework-neoforge-1.21.1-0.13.11.jar",
+      "added_at": "2026-04-24T01:51:22.588065+00:00"
+    },
+    {
+      "filename": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "display_name": "fzzy_config-0.7.6+1.21+neoforge",
+      "description": "",
+      "size": 2369895,
+      "required": true,
+      "hash": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
+      "added_at": "2026-04-24T01:51:26.303062+00:00"
+    },
+    {
+      "filename": "geckolib-neoforge-1.21.1-4.8.2.jar",
+      "display_name": "geckolib-neoforge-1.21.1-4.8.2",
+      "description": "",
+      "size": 621848,
+      "required": true,
+      "hash": "a733757157bd914b56a24c09d2797c522f0f339eb5e45ec1d70a8a9326ecd9df",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/geckolib-neoforge-1.21.1-4.8.2.jar",
+      "added_at": "2026-04-24T01:51:29.085119+00:00"
+    },
+    {
+      "filename": "iris-neoforge-1.8.12+mc1.21.1.jar",
+      "display_name": "iris-neoforge-1.8.12+mc1.21.1",
+      "description": "",
+      "size": 2438548,
+      "required": true,
+      "hash": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+      "added_at": "2026-04-24T01:51:32.738036+00:00"
+    },
+    {
+      "filename": "jei-1.21.1-neoforge-19.25.0.323.jar",
+      "display_name": "jei-1.21.1-neoforge-19.25.0.323",
+      "description": "",
+      "size": 1505887,
+      "required": true,
+      "hash": "a46baba7b85d465503e7cf382533b96af845a8ab37748637360a441d0ef2030d",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/jei-1.21.1-neoforge-19.25.0.323.jar",
+      "added_at": "2026-04-24T01:51:34.971900+00:00"
+    },
+    {
+      "filename": "kotlinforforge-5.11.0-all.jar",
+      "display_name": "kotlinforforge-5.11.0-all",
+      "description": "",
+      "size": 6869790,
+      "required": true,
+      "hash": "89d2ccd9d2ca2996ca3ee57b27165893f4bc4b8431be89461f8b2f8fe6162ac1",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/kotlinforforge-5.11.0-all.jar",
+      "added_at": "2026-04-24T01:51:43.395676+00:00"
+    },
+    {
+      "filename": "mafglib-0.4.2+mc1.21.1.jar",
+      "display_name": "mafglib-0.4.2+mc1.21.1",
+      "description": "",
+      "size": 1113826,
+      "required": true,
+      "hash": "a4ef3581a51e1b892b7f62f7b81c2b331113de350510b77037f812490ad30775",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/mafglib-0.4.2%2Bmc1.21.1.jar",
+      "added_at": "2026-04-24T01:51:45.318070+00:00"
+    },
+    {
+      "filename": "MyNethersDelight-1.21.1-1.9.jar",
+      "display_name": "MyNethersDelight-1.21.1-1.9",
+      "description": "",
+      "size": 798485,
+      "required": true,
+      "hash": "8ba1bc5f3e1bb9b289fa829797c9dc8adf2a9569957c6b229047fae8dba41042",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/MyNethersDelight-1.21.1-1.9.jar",
+      "added_at": "2026-04-24T01:51:47.661618+00:00"
+    },
+    {
+      "filename": "refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+      "display_name": "refurbished_furniture-neoforge-1.21.1-1.0.22",
+      "description": "",
+      "size": 7133477,
+      "required": true,
+      "hash": "953a7840261eb79959769a97caa60cba2ee141700a4cbe208825268327136bdf",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+      "added_at": "2026-04-24T01:51:56.232783+00:00"
+    },
+    {
+      "filename": "SimplyBows-neoforge-0.1.2.jar",
+      "display_name": "SimplyBows-neoforge-0.1.2",
+      "description": "",
+      "size": 3884644,
+      "required": true,
+      "hash": "bcf67f182b07c0a649a25137f24023c8efe3d89590eea38eeb0a4a9954d05cfe",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/SimplyBows-neoforge-0.1.2.jar",
+      "added_at": "2026-04-24T01:52:01.165684+00:00"
+    },
+    {
+      "filename": "simplyswords-neoforge-1.63.0-1.21.1.jar",
+      "display_name": "simplyswords-neoforge-1.63.0-1.21.1",
+      "description": "",
+      "size": 12617777,
+      "required": true,
+      "hash": "4619dcf1501fc82c1a52acd4c88a466436f5c1d7d2bccc0932912a12b0bc5198",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/simplyswords-neoforge-1.63.0-1.21.1.jar",
+      "added_at": "2026-04-24T01:52:17.789158+00:00"
+    },
+    {
+      "filename": "SimplyTooltips-neoforge-0.1.3.jar",
+      "display_name": "SimplyTooltips-neoforge-0.1.3",
+      "description": "",
+      "size": 5320037,
+      "required": true,
+      "hash": "ea21464cfd363efe2965cdf801b82b37ecda83e93051193f4830783ead723518",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/SimplyTooltips-neoforge-0.1.3.jar",
+      "added_at": "2026-04-24T01:52:30.273891+00:00"
+    },
+    {
+      "filename": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "display_name": "sodium-neoforge-0.6.13+mc1.21.1",
+      "description": "",
+      "size": 1162994,
+      "required": true,
+      "hash": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+      "added_at": "2026-04-24T01:52:32.538373+00:00"
+    },
+    {
+      "filename": "worldedit-mod-7.3.8.jar",
+      "display_name": "worldedit-mod-7.3.8",
+      "description": "",
+      "size": 6222854,
+      "required": true,
+      "hash": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/worldedit-mod-7.3.8.jar",
+      "added_at": "2026-04-24T01:52:41.336847+00:00"
+    },
+    {
+      "filename": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
+      "display_name": "xaerominimap-neoforge-1.21.1-25.3.10",
+      "description": "",
+      "size": 2137784,
+      "required": true,
+      "hash": "b28dd669e17d70be126b887845646ade10f2c9a2aed15a0750e7cc1c760e653d",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+      "added_at": "2026-04-24T01:52:44.432726+00:00"
+    },
+    {
+      "filename": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+      "display_name": "xaeroworldmap-neoforge-1.21.1-1.40.11",
+      "description": "",
+      "size": 1386001,
+      "required": true,
+      "hash": "a00363399c1672e5bfa399889d128f5ba60f42200ee97312038924df6cbebcb6",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+      "added_at": "2026-04-24T01:52:46.403278+00:00"
     }
   ],
-  "mod_count": 1,
-  "total_size": 5237,
+  "mod_count": 32,
+  "total_size": 146192094,
   "schema_version": 1
 }
