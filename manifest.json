@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:43:19.660753+00:00",
+  "updated_at": "2026-04-24T17:43:33.227345+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -97,7 +97,7 @@
     },
     {
       "filename": "create-enchantment-industry-2.3.0.jar",
-      "display_name": "create-enchantment-industry-2.3.0",
+      "display_name": "Create Enchantment Industry",
       "description": "",
       "size": 683005,
       "required": true,
