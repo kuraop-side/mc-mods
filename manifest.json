@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:44:16.628536+00:00",
+  "updated_at": "2026-04-24T17:44:29.439257+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -147,7 +147,7 @@
     },
     {
       "filename": "FarmersDelight-1.21.1-1.2.9.jar",
-      "display_name": "FarmersDelight-1.21.1-1.2.9",
+      "display_name": "Farmers Delight",
       "description": "",
       "size": 2964387,
       "required": true,
