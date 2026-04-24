@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:42:04.267491+00:00",
+  "updated_at": "2026-04-24T17:42:13.316694+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -57,7 +57,7 @@
     },
     {
       "filename": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
-      "display_name": "Clumps-neoforge-1.21.1-19.0.0.1",
+      "display_name": "Clumps",
       "description": "",
       "size": 18382,
       "required": true,
