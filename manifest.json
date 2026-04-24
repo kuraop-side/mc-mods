@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:46:15.678434+00:00",
+  "updated_at": "2026-04-24T17:46:30.010863+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -247,7 +247,7 @@
     },
     {
       "filename": "refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
-      "display_name": "refurbished_furniture-neoforge-1.21.1-1.0.22",
+      "display_name": "Refurbished Furniture",
       "description": "",
       "size": 7133477,
       "required": true,
