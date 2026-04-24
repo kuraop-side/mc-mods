@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:47:22.534085+00:00",
+  "updated_at": "2026-04-24T17:47:37.423661+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -307,7 +307,7 @@
     },
     {
       "filename": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
-      "display_name": "xaerominimap-neoforge-1.21.1-25.3.10",
+      "display_name": "Xaero's Minimap",
       "description": "",
       "size": 2137784,
       "required": true,
