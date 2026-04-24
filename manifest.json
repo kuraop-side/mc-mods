@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:45:55.281508+00:00",
+  "updated_at": "2026-04-24T17:46:08.256257+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -237,7 +237,7 @@
     },
     {
       "filename": "MyNethersDelight-1.21.1-1.9.jar",
-      "display_name": "MyNethersDelight-1.21.1-1.9",
+      "display_name": "My Nethers Delight",
       "description": "",
       "size": 798485,
       "required": true,
