@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:48:38.090986+00:00",
+  "updated_at": "2026-04-24T17:48:43.268699+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -340,7 +340,7 @@
       "display_name": "Controllable",
       "description": "",
       "size": 7140498,
-      "required": true,
+      "required": false,
       "hash": "7c1396186bb70ee9704cd725fd05752ff52e6eca1b89f87c26bd6fd5f1b6f1d8",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/controllable-neoforge-1.21.1-0.25.4.jar",
       "added_at": "2026-04-24T17:48:21.997132+00:00"
