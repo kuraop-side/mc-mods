@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:41:20.241787+00:00",
+  "updated_at": "2026-04-24T17:41:33.539018+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -17,7 +17,7 @@
     },
     {
       "filename": "architectury-13.0.8-neoforge.jar",
-      "display_name": "architectury-13.0.8-neoforge",
+      "display_name": "Architectuary",
       "description": "",
       "size": 584004,
       "required": true,
