@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:49:05.041245+00:00",
+  "updated_at": "2026-04-24T17:49:10.595491+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -300,7 +300,7 @@
       "display_name": "World Edit",
       "description": "",
       "size": 6222854,
-      "required": true,
+      "required": false,
       "hash": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/worldedit-mod-7.3.8.jar",
       "added_at": "2026-04-24T01:52:41.336847+00:00"
