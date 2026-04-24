@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:48:22.113777+00:00",
+  "updated_at": "2026-04-24T17:48:38.090986+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -337,7 +337,7 @@
     },
     {
       "filename": "controllable-neoforge-1.21.1-0.25.4.jar",
-      "display_name": "controllable-neoforge-1.21.1-0.25.4",
+      "display_name": "Controllable",
       "description": "",
       "size": 7140498,
       "required": true,
