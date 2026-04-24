@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:47:00.297047+00:00",
+  "updated_at": "2026-04-24T17:47:09.320932+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -287,7 +287,7 @@
     },
     {
       "filename": "sodium-neoforge-0.6.13+mc1.21.1.jar",
-      "display_name": "sodium-neoforge-0.6.13+mc1.21.1",
+      "display_name": "Sodium",
       "description": "",
       "size": 1162994,
       "required": true,
