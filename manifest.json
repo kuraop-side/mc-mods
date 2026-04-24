@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:41:56.814400+00:00",
+  "updated_at": "2026-04-24T17:42:04.267491+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -47,7 +47,7 @@
     },
     {
       "filename": "cloth-config-15.0.140-neoforge.jar",
-      "display_name": "cloth-config-15.0.140-neoforge",
+      "display_name": "Cloth",
       "description": "",
       "size": 1163890,
       "required": true,
