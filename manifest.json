@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:44:29.439257+00:00",
+  "updated_at": "2026-04-24T17:44:47.056045+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -157,7 +157,7 @@
     },
     {
       "filename": "forgematica-0.4.1+mc1.21.1.jar",
-      "display_name": "forgematica-0.4.1+mc1.21.1",
+      "display_name": "Forgematica",
       "description": "",
       "size": 1383228,
       "required": true,
