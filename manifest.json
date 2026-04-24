@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:48:43.268699+00:00",
+  "updated_at": "2026-04-24T17:48:56.971115+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -200,7 +200,7 @@
       "display_name": "Iris",
       "description": "",
       "size": 2438548,
-      "required": true,
+      "required": false,
       "hash": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
       "added_at": "2026-04-24T01:51:32.738036+00:00"
