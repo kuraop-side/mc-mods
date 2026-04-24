@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:48:56.971115+00:00",
+  "updated_at": "2026-04-24T17:49:05.041245+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -290,7 +290,7 @@
       "display_name": "Sodium",
       "description": "",
       "size": 1162994,
-      "required": true,
+      "required": false,
       "hash": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
       "added_at": "2026-04-24T01:52:32.538373+00:00"
