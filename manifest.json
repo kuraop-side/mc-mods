@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:45:25.565207+00:00",
+  "updated_at": "2026-04-24T17:45:34.684910+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -207,7 +207,7 @@
     },
     {
       "filename": "jei-1.21.1-neoforge-19.25.0.323.jar",
-      "display_name": "jei-1.21.1-neoforge-19.25.0.323",
+      "display_name": "JEI",
       "description": "",
       "size": 1505887,
       "required": true,
