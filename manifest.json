@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:43:33.227345+00:00",
+  "updated_at": "2026-04-24T17:43:43.030931+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -107,7 +107,7 @@
     },
     {
       "filename": "creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
-      "display_name": "creategoggles-1.21.1-6.1.1-.NEOFORGE",
+      "display_name": "Create Goggles",
       "description": "",
       "size": 180932,
       "required": true,
