@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:49:30.200486+00:00",
+  "updated_at": "2026-04-24T17:49:37.393668+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -330,7 +330,7 @@
       "display_name": "Advanced Xray",
       "description": "",
       "size": 129873,
-      "required": true,
+      "required": false,
       "hash": "7311748ea1e2239e2a289d8aa64e73c6f48ac598219791f8719336dd49a7bbb6",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/advanced-xray-neoforge-21.0.0.jar",
       "added_at": "2026-04-24T17:48:13.714553+00:00"
