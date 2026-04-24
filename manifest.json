@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:43:00.224368+00:00",
+  "updated_at": "2026-04-24T17:43:09.134842+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -37,7 +37,7 @@
     },
     {
       "filename": "BrewinAndChewin-neoforge-4.4.1+1.21.1.jar",
-      "display_name": "Brewin asnd Chewin",
+      "display_name": "Brewin and Chewin",
       "description": "",
       "size": 1558087,
       "required": true,
