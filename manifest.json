@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-25T17:46:38.268750+00:00",
+  "updated_at": "2026-04-25T17:47:11.812574+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -104,16 +104,6 @@
       "hash": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
       "added_at": "2026-04-24T01:51:26.303062+00:00"
-    },
-    {
-      "filename": "geckolib-neoforge-1.21.1-4.8.2.jar",
-      "display_name": "Geckolib",
-      "description": "",
-      "size": 621848,
-      "required": true,
-      "hash": "a733757157bd914b56a24c09d2797c522f0f339eb5e45ec1d70a8a9326ecd9df",
-      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/geckolib-neoforge-1.21.1-4.8.2.jar",
-      "added_at": "2026-04-24T01:51:29.085119+00:00"
     },
     {
       "filename": "iris-neoforge-1.8.12+mc1.21.1.jar",
@@ -344,9 +334,19 @@
       "hash": "3c944e232899f6d5ed01702a6a13de220b1eb4876d7e8709c3a1b53d2ca2a299",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/FarmersDelight-1.21.1-1.2.11a.jar",
       "added_at": "2026-04-25T17:46:20.147337+00:00"
+    },
+    {
+      "filename": "geckolib-neoforge-1.21.1-4.8.4.jar",
+      "display_name": "Geckolib",
+      "description": "",
+      "size": 622582,
+      "required": true,
+      "hash": "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "added_at": "2026-04-25T17:47:11.331786+00:00"
     }
   ],
   "mod_count": 34,
-  "total_size": 150502731,
+  "total_size": 150503465,
   "schema_version": 1
 }
