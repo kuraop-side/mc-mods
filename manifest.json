@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-24T17:49:37.393668+00:00",
+  "updated_at": "2026-04-25T17:42:36.039067+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -34,16 +34,6 @@
       "hash": "fbc4daaafc5a68125e144b14243468a6b3ad347bd8948eb41f2d0de05afaca0e",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/backpacked-neoforge-1.21.1-3.0.3.jar",
       "added_at": "2026-04-24T01:49:17.875651+00:00"
-    },
-    {
-      "filename": "BrewinAndChewin-neoforge-4.4.1+1.21.1.jar",
-      "display_name": "Brewin and Chewin",
-      "description": "",
-      "size": 1558087,
-      "required": true,
-      "hash": "523841afdc3e27ac6f6d509a24296b355ae137ab68a6abefe4f88dc02d8617e1",
-      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/BrewinAndChewin-neoforge-4.4.1%2B1.21.1.jar",
-      "added_at": "2026-04-24T01:49:20.030924+00:00"
     },
     {
       "filename": "cloth-config-15.0.140-neoforge.jar",
@@ -344,9 +334,19 @@
       "hash": "7c1396186bb70ee9704cd725fd05752ff52e6eca1b89f87c26bd6fd5f1b6f1d8",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/controllable-neoforge-1.21.1-0.25.4.jar",
       "added_at": "2026-04-24T17:48:21.997132+00:00"
+    },
+    {
+      "filename": "BrewinAndChewin-neoforge-4.4.2+1.21.1.jar",
+      "display_name": "Brewin and Chewin",
+      "description": "",
+      "size": 1566859,
+      "required": true,
+      "hash": "2164f5c859b928d689f6cef566081f0db5b3339d401ef84eee84b2c28ffa8105",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/BrewinAndChewin-neoforge-4.4.2%2B1.21.1.jar",
+      "added_at": "2026-04-25T17:42:35.654101+00:00"
     }
   ],
   "mod_count": 34,
-  "total_size": 153462465,
+  "total_size": 153471237,
   "schema_version": 1
 }
