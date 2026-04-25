@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-25T17:42:36.039067+00:00",
+  "updated_at": "2026-04-25T17:43:38.176357+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -64,16 +64,6 @@
       "hash": "c1649584e178ce04b2ca923f4afcd5640f67cea7a122dc166f9a773db8683e8f",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/cluttered-.NeoForge.-3.0.3-1.21.1.jar",
       "added_at": "2026-04-24T01:49:28.629317+00:00"
-    },
-    {
-      "filename": "create-1.21.1-6.0.9.jar",
-      "display_name": "Create",
-      "description": "",
-      "size": 19019888,
-      "required": true,
-      "hash": "c3030f79894ba7410d51e99dd5e5b8a4f4cc9de6cb63c5906dc8f909000a4f55",
-      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/create-1.21.1-6.0.9.jar",
-      "added_at": "2026-04-24T01:49:52.103889+00:00"
     },
     {
       "filename": "create-dragons-plus-1.8.7.jar",
@@ -344,9 +334,19 @@
       "hash": "2164f5c859b928d689f6cef566081f0db5b3339d401ef84eee84b2c28ffa8105",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/BrewinAndChewin-neoforge-4.4.2%2B1.21.1.jar",
       "added_at": "2026-04-25T17:42:35.654101+00:00"
+    },
+    {
+      "filename": "create-1.21.1-6.0.10.jar",
+      "display_name": "Create",
+      "description": "",
+      "size": 19123767,
+      "required": true,
+      "hash": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/create-1.21.1-6.0.10.jar",
+      "added_at": "2026-04-25T17:43:37.800798+00:00"
     }
   ],
   "mod_count": 34,
-  "total_size": 153471237,
+  "total_size": 153575116,
   "schema_version": 1
 }
