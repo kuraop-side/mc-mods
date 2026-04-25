@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-25T17:45:57.668477+00:00",
+  "updated_at": "2026-04-25T17:46:20.481612+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -74,16 +74,6 @@
       "hash": "f08ff14c72ff15de9b3c87200ad06115ff48c73ac21458e038d6e137e162a907",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
       "added_at": "2026-04-24T01:49:55.311280+00:00"
-    },
-    {
-      "filename": "FarmersDelight-1.21.1-1.2.9.jar",
-      "display_name": "Farmers Delight",
-      "description": "",
-      "size": 2964387,
-      "required": true,
-      "hash": "bdc8dea5ea3f1ee81494a4587a6aef88976d942294a8ceddc3287cf0436bfd4f",
-      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/FarmersDelight-1.21.1-1.2.9.jar",
-      "added_at": "2026-04-24T01:51:17.802031+00:00"
     },
     {
       "filename": "forgematica-0.4.1+mc1.21.1.jar",
@@ -344,9 +334,19 @@
       "hash": "75f4bb9de2aa8e07a3e0402582f32050584e791001fb910d6436e42b3542e854",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/Essential_1-3-10-8_neoforge_1-21-1.jar",
       "added_at": "2026-04-25T17:45:56.483692+00:00"
+    },
+    {
+      "filename": "FarmersDelight-1.21.1-1.2.11a.jar",
+      "display_name": "Farmers Delight",
+      "description": "",
+      "size": 2944552,
+      "required": true,
+      "hash": "3c944e232899f6d5ed01702a6a13de220b1eb4876d7e8709c3a1b53d2ca2a299",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/FarmersDelight-1.21.1-1.2.11a.jar",
+      "added_at": "2026-04-25T17:46:20.147337+00:00"
     }
   ],
   "mod_count": 34,
-  "total_size": 150522566,
+  "total_size": 150502731,
   "schema_version": 1
 }
