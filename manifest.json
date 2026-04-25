@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-25T17:44:14.365210+00:00",
+  "updated_at": "2026-04-25T17:44:33.125497+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -74,16 +74,6 @@
       "hash": "f08ff14c72ff15de9b3c87200ad06115ff48c73ac21458e038d6e137e162a907",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
       "added_at": "2026-04-24T01:49:55.311280+00:00"
-    },
-    {
-      "filename": "CreateNumismatics-1.0.19integration+neoforge-mc1.21.1.jar",
-      "display_name": "Create Numismatics",
-      "description": "",
-      "size": 729918,
-      "required": true,
-      "hash": "4206f91cc92254f08f21b7c203f7294fe5b37267748aa70bb7d7c3c86212b70d",
-      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/CreateNumismatics-1.0.19integration%2Bneoforge-mc1.21.1.jar",
-      "added_at": "2026-04-24T01:49:56.565058+00:00"
     },
     {
       "filename": "createutilities-0.3.2+mc1.21.1.jar",
@@ -344,9 +334,19 @@
       "hash": "6bd60393cf582568a09aa38f82fe6ea6e5928659d7befc6b0ee9f46025179064",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/create-enchantment-industry-2.3.1.jar",
       "added_at": "2026-04-25T17:44:14.038110+00:00"
+    },
+    {
+      "filename": "CreateNumismatics-1.0.20+neoforge-mc1.21.1.jar",
+      "display_name": "Create Numismatics",
+      "description": "",
+      "size": 693446,
+      "required": true,
+      "hash": "1375ba1b50e53fd09435029b5b2d5b94779ba397cca7e01180d07b0f624e5b9b",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/CreateNumismatics-1.0.20%2Bneoforge-mc1.21.1.jar",
+      "added_at": "2026-04-25T17:44:32.799773+00:00"
     }
   ],
   "mod_count": 34,
-  "total_size": 153688365,
+  "total_size": 153651893,
   "schema_version": 1
 }
