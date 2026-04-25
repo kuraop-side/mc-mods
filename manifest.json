@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-25T17:47:11.812574+00:00",
+  "updated_at": "2026-04-25T17:47:26.426260+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -114,16 +114,6 @@
       "hash": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
       "added_at": "2026-04-24T01:51:32.738036+00:00"
-    },
-    {
-      "filename": "jei-1.21.1-neoforge-19.25.0.323.jar",
-      "display_name": "JEI",
-      "description": "",
-      "size": 1505887,
-      "required": true,
-      "hash": "a46baba7b85d465503e7cf382533b96af845a8ab37748637360a441d0ef2030d",
-      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/jei-1.21.1-neoforge-19.25.0.323.jar",
-      "added_at": "2026-04-24T01:51:34.971900+00:00"
     },
     {
       "filename": "kotlinforforge-5.11.0-all.jar",
@@ -344,9 +334,19 @@
       "hash": "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/geckolib-neoforge-1.21.1-4.8.4.jar",
       "added_at": "2026-04-25T17:47:11.331786+00:00"
+    },
+    {
+      "filename": "jei-1.21.1-neoforge-19.27.0.340.jar",
+      "display_name": "JEI",
+      "description": "",
+      "size": 1529391,
+      "required": true,
+      "hash": "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "added_at": "2026-04-25T17:47:26.088694+00:00"
     }
   ],
   "mod_count": 34,
-  "total_size": 150503465,
+  "total_size": 150526969,
   "schema_version": 1
 }
