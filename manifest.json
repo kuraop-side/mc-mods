@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-25T17:43:50.383824+00:00",
+  "updated_at": "2026-04-25T17:44:14.365210+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -64,16 +64,6 @@
       "hash": "c1649584e178ce04b2ca923f4afcd5640f67cea7a122dc166f9a773db8683e8f",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/cluttered-.NeoForge.-3.0.3-1.21.1.jar",
       "added_at": "2026-04-24T01:49:28.629317+00:00"
-    },
-    {
-      "filename": "create-enchantment-industry-2.3.0.jar",
-      "display_name": "Create Enchantment Industry",
-      "description": "",
-      "size": 683005,
-      "required": true,
-      "hash": "304bec94c91e73538cac6516ca3ef7722625764686830357e8cbb6bc21dd4606",
-      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/create-enchantment-industry-2.3.0.jar",
-      "added_at": "2026-04-24T01:49:54.378955+00:00"
     },
     {
       "filename": "creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
@@ -344,9 +334,19 @@
       "hash": "8cc47a5ea04c8bbefd24ebca67d45e6a44f80925723cb2f82676d27b0a2a9d66",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/CreateDragonsPlus-1.10.0b.jar",
       "added_at": "2026-04-25T17:43:49.805155+00:00"
+    },
+    {
+      "filename": "create-enchantment-industry-2.3.1.jar",
+      "display_name": "Create Enchantment Industry",
+      "description": "",
+      "size": 684729,
+      "required": true,
+      "hash": "6bd60393cf582568a09aa38f82fe6ea6e5928659d7befc6b0ee9f46025179064",
+      "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/create-enchantment-industry-2.3.1.jar",
+      "added_at": "2026-04-25T17:44:14.038110+00:00"
     }
   ],
   "mod_count": 34,
-  "total_size": 153686641,
+  "total_size": 153688365,
   "schema_version": 1
 }
