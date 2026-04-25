@@ -3,7 +3,7 @@
   "minecraft_version": "1.21.1",
   "loader": "NeoForge",
   "welcome_message": "",
-  "updated_at": "2026-04-25T17:47:26.426260+00:00",
+  "updated_at": "2026-04-25T17:47:40.412198+00:00",
   "mods": [
     {
       "filename": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
@@ -130,7 +130,7 @@
       "display_name": "Mafglib",
       "description": "",
       "size": 1113826,
-      "required": true,
+      "required": false,
       "hash": "a4ef3581a51e1b892b7f62f7b81c2b331113de350510b77037f812490ad30775",
       "download_url": "https://github.com/kuraop-side/mc-mods/releases/download/mods/mafglib-0.4.2%2Bmc1.21.1.jar",
       "added_at": "2026-04-24T01:51:45.318070+00:00"
